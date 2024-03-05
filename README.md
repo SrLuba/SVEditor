@@ -1,2 +1,2 @@
-# SMSEditor
-Super Mario Studio Editor
+# SVEditor
+StudioVerse Official Editor Program.
